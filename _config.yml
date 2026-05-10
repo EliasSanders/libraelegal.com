@@ -1,0 +1,7 @@
+title: Librae
+description: Legal Demand Letters for US Consumers
+url: "https://libraelegal.com"
+theme: minima
+
+exclude:
+  - CNAME
